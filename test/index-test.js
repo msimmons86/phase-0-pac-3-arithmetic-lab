@@ -22,7 +22,7 @@ describe('basic math functions', function () {
     expect(divide).toExist
   })
 
-  it('add(a, b) adds two numbers and returns the result', function() {
+  it('add(a, b) adds two n umbers and returns the result', function() {
     expect(add(a, b)).toEqual(a + b)
   })
   
